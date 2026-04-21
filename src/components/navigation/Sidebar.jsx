@@ -31,7 +31,7 @@ export default function Sidebar() {
       {/* Logo */}
       <div className="flex items-center gap-3 px-3 mb-8 mt-2">
         <div className="w-10 h-10 rounded-xl bg-gradient-primary flex items-center justify-center">
-          <span className="text-white font-bold text-lg">F</span>
+          <span className="text-white font-bold text-lg">W</span>
         </div>
         <div>
           <h1 className="text-lg font-bold text-surface-900 dark:text-white">Wallex</h1>
