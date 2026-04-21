@@ -34,7 +34,7 @@ function ProtectedRoute({ children }) {
       <div className="min-h-screen flex items-center justify-center bg-surface-50 dark:bg-surface-950">
         <div className="text-center">
           <div className="w-12 h-12 rounded-2xl bg-gradient-primary mx-auto mb-4 flex items-center justify-center animate-pulse-soft">
-            <span className="text-white font-bold text-xl">F</span>
+            <span className="text-white font-bold text-xl">W</span>
           </div>
           <p className="text-surface-400 text-sm">Loading...</p>
         </div>
