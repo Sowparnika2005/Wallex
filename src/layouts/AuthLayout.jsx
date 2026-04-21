@@ -26,7 +26,7 @@ export default function AuthLayout() {
         {/* Logo */}
         <div className="text-center mb-8">
           <div className="w-16 h-16 rounded-2xl bg-gradient-primary mx-auto mb-4 flex items-center justify-center shadow-glow">
-            <span className="text-white font-bold text-2xl">F</span>
+            <span className="text-white font-bold text-2xl">W</span>
           </div>
           <h1 className="text-3xl font-bold text-white">Wallex</h1>
           <p className="text-surface-400 mt-1">Smart Finance Manager</p>
